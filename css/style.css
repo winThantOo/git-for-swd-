@@ -4,4 +4,6 @@ h1 {
 
 h1:hover {
     color: darkblue;
+    padding: 12px;
+    border: 1px solid black;
 }
